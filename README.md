@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #井上嘉人/Yoshito Inoue/19old/42Tokyo/Engineer
+#Python #C #Go
+I like to travel abroad.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Inoueyoshito&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
